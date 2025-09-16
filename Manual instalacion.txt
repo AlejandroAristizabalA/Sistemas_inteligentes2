@@ -1,0 +1,112 @@
+🛠️ Manual de Instalación del Sistema de Chequeo de Salud
+📋 Requisitos previos
+
+Antes de instalar el software, asegúrate de tener:
+
+Sistema operativo: Windows 10/11 (también funciona en Linux o macOS).
+
+Python: versión 3.10 o superior.
+
+Conexión a internet para descargar dependencias.
+
+🚀 Pasos de Instalación
+1. Descargar el proyecto
+
+Crea una carpeta en tu escritorio llamada:
+
+Sistemas_inteligentes
+
+
+Copia dentro de esa carpeta los archivos que componen el proyecto:
+
+menu_principal.py
+
+formulario_evaluacion.py
+
+registro.py
+
+(opcional) registros.json → se generará automáticamente la primera vez que uses el programa.
+
+2. Instalar Python
+
+Ve a la página oficial: https://www.python.org/downloads/
+
+Descarga la última versión estable de Python 3.x.
+
+Durante la instalación:
+
+Marca la casilla ✅ "Add Python to PATH".
+
+Luego haz clic en Install Now.
+
+Para verificar la instalación:
+Abre PowerShell o CMD y escribe:
+
+python --version
+
+
+Debe mostrar algo como:
+
+Python 3.12.5
+
+3. Crear entorno virtual (recomendado)
+
+Dentro de la carpeta Sistemas_inteligentes, abre PowerShell y escribe:
+
+python -m venv .venv
+
+
+Activa el entorno virtual:
+
+.venv\Scripts\activate
+
+
+Verás que aparece algo como:
+
+(.venv) PS C:\Users\...\Sistemas_inteligentes>
+
+4. Instalar dependencias
+
+Con el entorno activado, instala PyQt6 (librería de interfaz gráfica):
+
+pip install PyQt6
+
+5. Ejecutar el software
+
+Para abrir el menú principal, ejecuta:
+
+python menu_principal.py
+
+
+Se abrirá la ventana del sistema con un diseño minimalista.
+Desde allí podrás:
+
+🩺 Realizar chequeo de salud diario.
+
+📜 Consultar historial de evaluaciones.
+
+🚪 Salir del programa.
+
+📦 Archivos generados automáticamente
+
+registros.json → almacena el historial de evaluaciones (se crea solo al usar el programa).
+
+🛠️ Solución de problemas
+
+Error “No module named PyQt6”
+→ Ejecuta:
+
+pip install PyQt6
+
+
+Error al importar registro
+→ Verifica que el archivo registro.py esté en la misma carpeta que menu_principal.py.
+
+La ventana no abre
+→ Asegúrate de estar dentro del entorno virtual y ejecutando con:
+
+python menu_principal.py
+
+✅ Listo
+
+Con estos pasos, tu sistema de chequeo de salud queda instalado y funcionando. 🎉
