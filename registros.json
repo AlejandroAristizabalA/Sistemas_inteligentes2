@@ -1,0 +1,102 @@
+[
+    {
+        "fecha": "2025-09-15 21:48:44",
+        "nombre": "Paciente",
+        "edad": 22,
+        "respuestas": {
+            "¿Tiene fiebre hoy?": "No",
+            "¿Siente dolor de cabeza?": "Sí",
+            "¿Tiene tos?": "Sí",
+            "¿Le duele el pecho?": "Sí",
+            "¿Tiene dificultad para respirar?": "Sí",
+            "¿Cómo califica su nivel de energía?": "Sí",
+            "¿Ha tenido mareos?": "Sí",
+            "¿Tiene dolor muscular?": "Sí",
+            "¿Su apetito fue normal?": "Sí",
+            "¿Ha dormido bien?": "Sí"
+        },
+        "resultado": "Alerta: considere consultar un médico.",
+        "consejo": "Busque atención médica lo antes posible.",
+        "score": 18
+    },
+    {
+        "fecha": "2025-09-15 21:48:52",
+        "nombre": "Paciente",
+        "edad": 22,
+        "respuestas": {
+            "¿Tiene fiebre hoy?": "No",
+            "¿Siente dolor de cabeza?": "Sí",
+            "¿Tiene tos?": "Sí",
+            "¿Le duele el pecho?": "No",
+            "¿Tiene dificultad para respirar?": "Sí",
+            "¿Cómo califica su nivel de energía?": "Sí",
+            "¿Ha tenido mareos?": "Sí",
+            "¿Tiene dolor muscular?": "No",
+            "¿Su apetito fue normal?": "Sí",
+            "¿Ha dormido bien?": "Sí"
+        },
+        "resultado": "Alerta: considere consultar un médico.",
+        "consejo": "Busque atención médica lo antes posible.",
+        "score": 14
+    },
+    {
+        "fecha": "2025-09-15 21:51:55",
+        "nombre": "Paciente",
+        "edad": 70,
+        "respuestas": {
+            "¿Tiene fiebre hoy?": "Sí",
+            "¿Siente dolor de cabeza?": "Sí",
+            "¿Tiene tos?": "Sí",
+            "¿Le duele el pecho?": "Sí",
+            "¿Tiene dificultad para respirar?": "Sí",
+            "¿Cómo califica su nivel de energía?": "Sí",
+            "¿Ha tenido mareos?": "Sí",
+            "¿Tiene dolor muscular?": "Sí",
+            "¿Su apetito fue normal?": "Sí",
+            "¿Ha dormido bien?": "Sí"
+        },
+        "resultado": "Alerta: considere consultar un médico.",
+        "consejo": "Busque atención médica lo antes posible.",
+        "score": 20
+    },
+    {
+        "fecha": "2025-09-15 21:54:09",
+        "nombre": "Paciente",
+        "edad": 70,
+        "respuestas": {
+            "¿Tiene fiebre hoy?": "Sí",
+            "¿Siente dolor de cabeza?": "Sí",
+            "¿Tiene tos?": "Sí",
+            "¿Le duele el pecho?": "Sí",
+            "¿Tiene dificultad para respirar?": "Sí",
+            "¿Cómo califica su nivel de energía?": "Sí",
+            "¿Ha tenido mareos?": "Sí",
+            "¿Tiene dolor muscular?": "Sí",
+            "¿Su apetito fue normal?": "Sí",
+            "¿Ha dormido bien?": "Sí"
+        },
+        "resultado": "Alerta: considere consultar un médico.",
+        "consejo": "Busque atención médica lo antes posible.",
+        "score": 20
+    },
+    {
+        "fecha": "2025-09-15 22:03:50",
+        "nombre": "Paciente",
+        "edad": 70,
+        "respuestas": {
+            "¿Tiene fiebre hoy?": "Sí",
+            "¿Siente dolor de cabeza?": "Sí",
+            "¿Tiene tos?": "Sí",
+            "¿Le duele el pecho?": "Sí",
+            "¿Tiene dificultad para respirar?": "Sí",
+            "¿Cómo califica su nivel de energía?": "Sí",
+            "¿Ha tenido mareos?": "Sí",
+            "¿Tiene dolor muscular?": "Sí",
+            "¿Su apetito fue normal?": "Sí",
+            "¿Ha dormido bien?": "Sí"
+        },
+        "resultado": "Alerta: considere consultar un médico.",
+        "consejo": "Busque atención médica lo antes posible.",
+        "score": 20
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "\u00bfC\u00f3mo se siente hoy en general?": "S\u00ed",
+        "\u00bfTiene fiebre o escalofr\u00edos?": "S\u00ed",
+        "\u00bfHa tenido tos o dificultad para respirar?": "S\u00ed",
+        "\u00bfSinti\u00f3 dolor o malestar fuerte en el cuerpo?": "S\u00ed",
+        "\u00bfDurmi\u00f3 bien anoche?": "S\u00ed",
+        "\u00bfHa comido bien hoy?": "S\u00ed",
+        "\u00bfSe sinti\u00f3 mareado o d\u00e9bil?": "S\u00ed",
+        "\u00bfLe duele el pecho?": "S\u00ed",
+        "\u00bfTuvo dolor de cabeza fuerte?": "S\u00ed",
+        "\u00bfHa podido caminar o moverse normalmente?": "S\u00ed"
+    },
+    {
+        "\u00bfSe ha sentido enfermo el dia de hoy?": "S\u00ed",
+        "\u00bfTiene fiebre o escalofr\u00edos?": "S\u00ed",
+        "\u00bfHa tenido tos o dificultad para respirar?": "S\u00ed",
+        "\u00bfSinti\u00f3 dolor o malestar fuerte en el cuerpo?": "Un poco",
+        "\u00bfDurmi\u00f3 bien anoche?": "Un poco",
+        "\u00bfHa comido bien hoy?": "S\u00ed",
+        "\u00bfSe sinti\u00f3 mareado o d\u00e9bil?": "S\u00ed",
+        "\u00bfLe duele el pecho?": "S\u00ed",
+        "\u00bfTuvo dolor de cabeza fuerte?": "Un poco",
+        "\u00bfHa podido caminar o moverse normalmente?": "S\u00ed"
+    },
+    {
+        "\u00bfSe ha sentido enfermo el dia de hoy?": "S\u00ed",
+        "\u00bfTiene fiebre o escalofr\u00edos?": "S\u00ed",
+        "\u00bfHa tenido tos o dificultad para respirar?": "Un poco",
+        "\u00bfSinti\u00f3 dolor o malestar fuerte en el cuerpo?": "Un poco",
+        "\u00bfDurmi\u00f3 bien anoche?": "S\u00ed",
+        "\u00bfHa comido bien hoy?": "Un poco",
+        "\u00bfSe sinti\u00f3 mareado o d\u00e9bil?": "Un poco",
+        "\u00bfLe duele el pecho?": "S\u00ed",
+        "\u00bfTuvo dolor de cabeza fuerte?": "Un poco",
+        "\u00bfHa podido caminar o moverse normalmente?": "Un poco"
+    },
+    {
+        "\u00bfSe ha sentido enfermo el dia de hoy?": "S\u00ed",
+        "\u00bfTiene fiebre o escalofr\u00edos?": "S\u00ed",
+        "\u00bfHa tenido tos o dificultad para respirar?": "S\u00ed",
+        "\u00bfSinti\u00f3 dolor o malestar fuerte en el cuerpo?": "S\u00ed",
+        "\u00bfDurmi\u00f3 bien anoche?": "S\u00ed",
+        "\u00bfHa comido bien hoy?": "S\u00ed",
+        "\u00bfSe sinti\u00f3 mareado o d\u00e9bil?": "Un poco",
+        "\u00bfLe duele el pecho?": "S\u00ed",
+        "\u00bfTuvo dolor de cabeza fuerte?": "No",
+        "\u00bfHa podido caminar o moverse normalmente?": "S\u00ed"
+    },
+    {
+        "\u00bfSe ha sentido enfermo el dia de hoy?": "No",
+        "\u00bfTiene fiebre o escalofr\u00edos?": "No",
+        "\u00bfHa tenido tos o dificultad para respirar?": "S\u00ed",
+        "\u00bfSinti\u00f3 dolor o malestar fuerte en el cuerpo?": "Un poco",
+        "\u00bfDurmi\u00f3 bien anoche?": "No",
+        "\u00bfHa comido bien hoy?": "S\u00ed",
+        "\u00bfSe sinti\u00f3 mareado o d\u00e9bil?": "Un poco",
+        "\u00bfLe duele el pecho?": "No",
+        "\u00bfTuvo dolor de cabeza fuerte?": "Un poco",
+        "\u00bfHa podido caminar o moverse normalmente?": "Un poco"
+    }
+]
